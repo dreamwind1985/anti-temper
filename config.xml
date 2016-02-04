@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+	<auth sn="0000" />
+	<server ip="123.57.207.164" port="443" />
+	<workpath>
+		<path>/root/upload/</path>
+		<path></path>
+		<whitepath></whitepath>
+	</workpath>
+</config>
